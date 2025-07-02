@@ -42,4 +42,3 @@ function merge(left, right) {
     result.push(...left.slice(j))
     return result
 }
-console.log(mergeSort([7,5,1,9,2,58,10,0]))
